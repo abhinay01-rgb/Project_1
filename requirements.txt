@@ -1,0 +1,9 @@
+langchain
+langgraph
+langchain-openai
+langchain-community
+faiss-cpu
+tiktoken
+pydantic
+redis
+python-dotenv
